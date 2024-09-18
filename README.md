@@ -9,9 +9,9 @@ With extensive experience in back-end and front-end technologies, I have honed m
 Here are some of the technologies and tools I work with:
 
 - **Languages & Frameworks**
+  - Django
   - Flask
   - SQLAlchemy
-  - MongoDB
   - PyMongo
   - jQuery
   - AJAX
@@ -22,7 +22,6 @@ Here are some of the technologies and tools I work with:
   - TypeScript
   - Bootstrap
   - C
-
 - **Version Control**
   - Git
 
